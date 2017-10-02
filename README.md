@@ -1,5 +1,4 @@
-# go-rest-api
-
+## References
 https://www.youtube.com/watch?v=wr_nwJ2cafo
 https://gist.github.com/alyssaq/75d6678d00572d103106
 https://elithrar.github.io/article/testing-http-handlers-go/
